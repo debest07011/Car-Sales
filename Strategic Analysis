@@ -1,0 +1,7 @@
+Business problem: As an automotive company, it is important to gain a deeper understanding of sales performance trends. Key metrics like monthly volume, highest selling brands and geographic demand need regular analysis to aid strategic planning.
+
+Approach: I obtained car sales transaction data from multiple sources and merged the files after cleaning inconsistencies. Parameters like location, brand, vehicle type and month/year were extracted for analysis. In Excel, I leveraged pivots and visualizations to uncover preliminary insights before building an interactive dashboard in Power BI.
+
+Results: The dashboard allows intuitive exploration of sales metrics and behavior patterns. Line graphs track volume fluctuations while bar charts compare brands. A map reveals regional demand. Color coding and labelling enhance readability. Automatic sorting and filtering enable customized views.
+
+Business impact: This analysis project equipped leadership with actionable intelligence. By identifying seasonal patterns and underperforming areas, impactful decisions around production, marketing initiatives and dealership allocation were facilitated. The interactive format supports ongoing monitoring of KPIs.
